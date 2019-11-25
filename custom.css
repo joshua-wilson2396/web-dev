@@ -86,7 +86,7 @@ check out his fantastic, lightweight framework @ getskeleton.com/*/
     bottom: 5px;
     left: 5px; }
   .navbar {
-    display: none;
+    display: list-item inline;
     text-align: center; /* my addition */
  }
   
